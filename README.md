@@ -30,6 +30,4 @@ The Weather App is a web application that utilizes the OpenWeather API to provid
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-I hope you enjoy using the Weather App! If you have any questions or suggestions, feel free to reach out.
+This project is licensed under the MIT License see the [LICENSE](LICENSE) file for details.
