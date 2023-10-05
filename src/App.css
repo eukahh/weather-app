@@ -1,0 +1,26 @@
+.section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.info {
+    margin-top: 70px;
+}
+
+#search-bar {
+    font-size: large;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    border-bottom: 3px solid white;
+}
+
+#icon {
+    width: 30px;
+}
+
+.section h3,
+.section img {
+    background: transparent;
+}
