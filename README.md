@@ -12,6 +12,22 @@ The Weather App is a web application that utilizes the OpenWeather API to provid
 
 2. **Accurate Details:** The application provides details such as temperature, and general weather conditions.
 
+## Installation
+
+1. Clone the repository to your local environment.
+```git clone https://github.com/eukahh/weather-app.git```
+2. Navigate to the project directory.
+```cd weather-app```
+3. Install the dependencies.
+```npm install```
+
+## Usage
+
+1. Build the application.
+```npm run build```
+2. Start the application.
+```npm run preview```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
